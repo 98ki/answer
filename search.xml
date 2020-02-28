@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>焦虑&amp;强迫性精神障碍</title>
+      <link href="/2020/02/27/psychology/psychology_2018_7_18_obsessive_compulsive_disorder/"/>
+      <url>/2020/02/27/psychology/psychology_2018_7_18_obsessive_compulsive_disorder/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><blockquote><p><strong>Obsessive–compulsive disorder (OCD)</strong> is a mental disorder in which a person feels the need to perform certain routines repeatedly (called “compulsions”), or has certain thoughts repeatedly (called “obsessions”).[1] The person is unable to control either the thoughts or activities for more than a short period of time.[1] Common compulsions include hand washing, counting of things, and checking to see if a door is locked.[1] Some may have difficulty throwing things out.[1] These activities occur to such a degree that the person’s daily life is negatively affected,[1] often taking up more than an hour a day.[2] Most adults realize that the behaviors do not make sense.[1] The condition is associated with tics, anxiety disorder, and an increased risk of suicide.[2][3]</p></blockquote><h2 id="characterized"><a href="#characterized" class="headerlink" title="characterized"></a>characterized</h2><ol><li>uncontrollable, intrusive thoughts, beliefs, and ideas</li><li>negative emotions like guilt and anxiety</li><li>repetitive and ritualistic behaviors or actions</li></ol><p>追本溯源，强迫性心理障碍大多出自于原生家庭在早期对子女控制的过分处理。在发病期常伴随焦虑，完美主义倾向，对事物认知也存在一定的局限性。通过放松和减压/佛系思维缓解焦虑，通过增强认知打破完美主义倾向。还可以尝试完全/逐渐暴露于强迫思维所不能接受的环境下。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> psychology </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> MMD </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>抑郁症</title>
+      <link href="/2020/02/27/psychology/psychology_2018_7_11_depressive_disorder/"/>
+      <url>/2020/02/27/psychology/psychology_2018_7_11_depressive_disorder/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><blockquote><p>Major depressive disorder (MDD), also known simply as depression, is a mental disorder characterized by at least two weeks of low mood that is present across most situations.[1] It is often accompanied by low self-esteem, loss of interest in normally enjoyable activities, low energy, and pain without a clear cause.[1] People may also occasionally have false beliefs or see or hear things that others cannot.[1] Some people have periods of depression separated by years in which they are normal, while others nearly always have symptoms present.[3] Major depressive disorder can negatively affect a person’s personal life, work life, or education, as well as sleeping, eating habits, and general health.[1][3] About 2–8% of adults with major depression die by suicide,[2][7] and about 50% of people who die by suicide had depression or another mood disorder.[8]<br>Most phobias are classified into three categories and, according to the Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-V), such phobias are considered sub-types of anxiety disorder. The categories are:</p></blockquote><p>从某个角度来看，抑郁症能够强迫你探索情感的深度，这是大部分“正常人”永远无法体会的。想象你得了某种压倒一切的疾病，严重得让你产生了自杀的念头；想象你感到某种危险的痛苦，连你自己也无法控制或克服它……</p><p>然而一旦你有力气起床，你会再次让自己疯狂地高兴起来，不仅为了拯救你的人生，更为了构筑你的人生。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> psychology </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> MMD </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2020/02/25/hello-world/"/>
+      <url>/2020/02/25/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>五蕴皆空</title>
+      <link href="/2019/01/10/Buddhism/PB_2019_1_10_generation/"/>
+      <url>/2019/01/10/Buddhism/PB_2019_1_10_generation/</url>
+      
+        <content type="html"><![CDATA[<p>人类经历七万年，通过想象力称霸地球。创造概念，以同样的基准、法则、价值观促成整个人类群体的合作。塑造天堂、信仰、法制、自由、人权等非客观事实的宏大主题给人类群体以目标和动力。发明国家、经济、企业给人类以竞争的意义。</p><p>今天，虚构的事实日渐强大，成为这个世界最强大的力量。无产阶级工业革命之后人类不在需要翻山越岭和苦力劳作。我们需要这么多人类做什么？越来越多的人开始抑郁，开始怀疑人生的意义。在药物、网络、电子游戏等虚幻中自我消耗。</p><p>未来，一群没用的人组成了一个新的阶级，更多的人类开始变的多余。富人升等为神，穷人被贬至无用阶级。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> philosophy </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>失眠&amp;梦</title>
+      <link href="/2018/08/15/medicine/medicine_2018_8_15_insomnia/"/>
+      <url>/2018/08/15/medicine/medicine_2018_8_15_insomnia/</url>
+      
+        <content type="html"><![CDATA[<p>气血不足导致体质偏寒，膝关节和脚长期冰凉。当整体热能不足，大脑中枢系统这个小可爱因为担心你死掉而让你进入梦境，结合白天生活积累的情绪，导致不断出现跑啊跳啊被追杀啊之类的噩梦。</p><p>大脑结构复杂，是人类唯一没有淋巴管环绕的器官。然而大脑日常工作消耗的能量大概占整体的1/5之多，大脑的代谢产物是如何清理的？<br>脑脊液在清除大脑代谢产物及炎性渗出物方面，起着身体其它部位淋巴液所起的作用。脑脊液主要在睡眠期间合成和作用，所以睡眠不足会影响大脑清理代谢产物。大脑代谢产生β-球蛋白(常见于帕金森)等代谢产物，所以睡眠不足会导致大脑混沌，注意力无法集中，思维混乱。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> psychology </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> sleep </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>健身圣经</title>
+      <link href="/2018/08/15/medicine/medcline_2018_8_15_fitness/"/>
+      <url>/2018/08/15/medicine/medcline_2018_8_15_fitness/</url>
+      
+        <content type="html"><![CDATA[<p>如果你是一个健身爱好者，你一定知道要想挺胸，就要先练背这个道理。生活中很多事也是如此，过分关注你想得到的，反而会让你离它越来越远。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> medicine </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> fitness </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>五蕴皆空</title>
+      <link href="/2018/07/20/Buddhism/PB_2018_7_20_five_empty/"/>
+      <url>/2018/07/20/Buddhism/PB_2018_7_20_five_empty/</url>
+      
+        <content type="html"><![CDATA[<p>佛教讲缘起性空，一切法无我。爱、桌子、山河大地、日月星辰都是由各种各样的条件组合而成，而我们，用知识，经验，文字去主观命名它，我们活在这样主观命名的世界里，而非世界的真相。一切因缘幻象，不当真，不执着无也不执着有。人生无意义，把执着变成有意义，而所有的执着，也没有意义。人生不必找答案，人生本就没有答案。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> philosophy </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Buddhism </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>基础代谢率</title>
+      <link href="/2018/07/11/medicine/medcline_2018_7_11_basal_metabolic_rate/"/>
+      <url>/2018/07/11/medicine/medcline_2018_7_11_basal_metabolic_rate/</url>
+      
+        <content type="html"><![CDATA[<h2 id="如何提高自己的基础代谢率"><a href="#如何提高自己的基础代谢率" class="headerlink" title="如何提高自己的基础代谢率"></a>如何提高自己的基础代谢率</h2><p>同样的活动，基础代谢率高的人消耗更多的能量，这也是有些人看起来吃的很多也吃不胖的原因。<br>提高基础代谢率的方式:<br>1.每周至少三次，每次三十分钟中等强度的体育锻炼，推荐各种运动交叉训练。<br>2.力量训练，1磅肌肉燃烧的热量是1磅脂肪的9倍。<br>3.少食多餐，切勿节食。<br>4.睡眠，水，维生素。<br>5.情绪管理，45分钟周期的劳逸结合</p><p>大多数人对自己的睡眠过度悲观，人的睡眠周期范围在90-120分钟，分为入睡期(5%)，浅睡期(50%)，熟睡期(10%)，深睡期和快速动眼期，整个夜晚会经历4-6个周期，一般起夜是在浅睡期，对睡眠质量不会造成影响。反而是晚睡导致睡眠时长不足，影响肝功，肝火旺盛是失眠的主要原因。失眠，一定是你自己造成的。</p><p>气血不足导致体质偏寒，膝关节和脚长期冰凉。当整体热能不足，大脑中枢系统这个小可爱因为担心你死掉而让你进入梦境，结合白天生活积累的情绪，导致不断出现跑啊跳啊被追杀啊之类的噩梦。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> psychology </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> phobia </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>恐惧症</title>
+      <link href="/2018/07/07/psychology/psychology_2018_7_7_phobia/"/>
+      <url>/2018/07/07/psychology/psychology_2018_7_7_phobia/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><blockquote><p>A <strong>phobia</strong> is a type of anxiety disorder defined by a persistent and excessive fear of an object or situation. The phobia typically results in a rapid onset of fear and is present for more than six months. The affected person goes to great lengths to avoid the situation or object, to a degree greater than the actual danger posed. If the feared object or situation cannot be avoided, the affected person experiences significant distress. With blood or injury phobia, fainting may occur. Agoraphobia is often associated with panic attacks. Usually a person has phobias to a number of objects or situations.</p></blockquote><p>Most phobias are classified into three categories and, according to the Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-V), such phobias are considered sub-types of anxiety disorder. The categories are:</p><ol><li><p>Specific phobias: Fear of particular objects or social situations that immediately results in anxiety and can sometimes lead to panic attacks. Specific phobia may be further subdivided into four categories: animal type, natural environment type, situational type, blood-injection-injury type.[8]</p></li><li><p>Agoraphobia: a generalized fear of leaving home or a small familiar ‘safe’ area, and of possible panic attacks that might follow. It may also be caused by various specific phobias such as fear of open spaces, social embarrassment (social agoraphobia), fear of contamination (fear of germs, possibly complicated by obsessive-compulsive disorder) or PTSD (post traumatic stress disorder) related to a trauma that occurred out of doors.</p></li></ol><ol start="3"><li>Social phobia, also known as social anxiety disorder, is when the situation is feared as the person is worried about others judging them.[1]</li></ol><p>Phobias vary in severity among individuals. Some individuals can simply avoid the subject of their fear and suffer relatively mild anxiety over that fear. Others suffer full-fledged panic attacks with all the associated disabling symptoms. Most individuals understand that they are suffering from an irrational fear, but are powerless to override their panic reaction. These individuals often report dizziness, loss of bladder or bowel control, tachypnea, feelings of pain, and shortness of breath.[9]</p><h1 id="typical-case"><a href="#typical-case" class="headerlink" title="typical case"></a>typical case</h1><p>##黑暗恐惧症<br>常常由于幼年时期在黑暗环境中一些令人痛苦的经历，或是被是被是一些血腥，恐怖的非自然题材电影左右意识。治疗黑暗恐惧，最重要的是辨认自己恐惧的对象，通过认知行为疗法矫正自己错误的认知，用科学的信息替换自我臆想，尝试逐步在黑暗环境下进行脱敏训练。黑暗恐惧症常常由于幼年时期在黑暗环境中一些令人痛苦的经历，或是被是被是一些血腥，恐怖的非自然题材电影左右意识。治疗黑暗恐惧，最重要的是辨认自己恐惧的对象，通过认知行为疗法矫正自己错误的认知，用科学的信息替换自我臆想，尝试逐步在黑暗环境下进行脱敏训练。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> psychology </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> phobia </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>发展心理学和精力蓝条</title>
+      <link href="/2018/07/03/psychology/psychology_2018_7_3_magic_point/"/>
+      <url>/2018/07/03/psychology/psychology_2018_7_3_magic_point/</url>
+      
+        <content type="html"><![CDATA[<p>痛苦的根源在于社会发展得太快,人类适应的太慢。没有天敌,不愁吃穿,解放劳动力。日常能量的释放由体力消耗转化为精神情感消耗。更多的人关注生活中那些负面的可能性上,抑郁症患者越来越多，极小的问题,就会引发他们极大的情绪反应。</p><p>不健康的日常能量消耗方式可以分为显性作死和隐性作死，显性作死比如极限运动,狂吃海喝,炒A股。<br>隐式作死是以为自己在解决问题,其实还是在作死。比如失恋之后不出门,在家自己添伤口，比如身体出了问题,上百度给自己定性。</p><p>这个丰衣足食的时代, 伪情感也是情感，也能消耗日常的情感需求和能量释放，一个人解决不了你的需求就多几个人，找不到完美的1v1,1v 半残的N也一样有它的乐趣，你要刺激要冒险也要爱，不是你要的太多，而是你确实拥有太多。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> psychology </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> developmental psychology </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>强迫性重复</title>
+      <link href="/2018/06/05/psychology/psychology_2018_6_5_repetition_compulsion/"/>
+      <url>/2018/06/05/psychology/psychology_2018_6_5_repetition_compulsion/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p><strong>Repetition compulsion</strong>  is a psychological phenomenon in which a person repeats an event or its circumstances over and over again. This includes reenacting the event or putting oneself in situations where the event is likely to happen again. This “re-living” can also take the form of dreams in which memories and feelings of what happened are repeated, and even hallucinated.</p></blockquote><p>“强迫性重复”即每个存在童年心理发育缺陷的人，都会经常不自主的强迫自己在心理层面上回到遭受挫折的心理发育阶段，在现实中再现童年创伤和经历，重复童年的痛苦。<br>比如一个总担心男朋友不喜欢自己的人可能从小缺乏父母的关爱。她把这种童年的感觉和关系模式带到了男女关系中，把对父母不够关心自己的感情转移到男朋友身上。而这种移情往往会造成重复性的挫伤，因为出问题的是你，而你从未真正弥补过自己的缺陷。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> psychology </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Freud </tag>
+            
+            <tag> psychoanalysis </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>人生是无意义的</title>
+      <link href="/2018/06/04/psychology/psychology_2018_6_4_logotherapy_issues/"/>
+      <url>/2018/06/04/psychology/psychology_2018_6_4_logotherapy_issues/</url>
+      
+        <content type="html"><![CDATA[<p>I think life is meaningless in a vacuum. One imposes value upon it. But I don’t believe there is innate value in life.</p><p>There is no intrinsic value in anything. Usefulness or worth only comes from the values placed on it. All life is absurd.</p><p>总体来说，人生是无意义的，世界是混乱的，我们认知当中的秩序和因果，大多只是我们构建出来的幻觉，为的是让我们感到安全和自信。</p><p><img src="https://vangogh.98ki.com/blog/2018/lifeMeaninglessCartoon.jpg" alt=""></p><p>缺失自我意识导致人生无意义，被动被操控，更严重会产生社交恐惧。</p><p>自主感和自我控制感成于幼儿期，如果自主与羞怯怀疑在幼儿期没有充分解决，会导致心理幼稚化，担心他人的愤怒，不能拒绝他人的要求。</p><p>培养自我意识，要重新和自己相处，明确自己的三观，确定人生目标。你表现出的自己，都是别人爱你的理由。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> psychology </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Logotherapy </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>伤害你的是你看待问题的方式</title>
+      <link href="/2018/05/15/psychology/psychology_2018_5_15_treat_mode/"/>
+      <url>/2018/05/15/psychology/psychology_2018_5_15_treat_mode/</url>
+      
+        <content type="html"><![CDATA[<p>大多数人抱怨父母不通情理，抱怨朋友不够珍惜自己，抱怨境遇不公。<br>但是有没有想过，认知不足可能是你父母真实的性格缺陷，朋友不够珍惜你可能是因为他有不同于你的对朋友这个词的理解。<br>活在这个世界上，每个人都有权利选择用何种方式处理份内之事，你要做的不是改变他们，而是和解，和解的是真相是无常是宇宙自然，或者一切先于你的，你能力之外的存在。</p><h1 id="悲观"><a href="#悲观" class="headerlink" title="悲观"></a>悲观</h1><p>有的人说：“我的执行力很差，做什么事都拖延，为什么我总是一事无成？”<br>我回答他：“你的执行力并不差，你很有效率地在坚持着你的拖延，你很有效率地在维持你一事无成的状态。因为这是你希望的状态：什么事都不做，什么事都做不成。你希望自己平庸，你很有执行力地做到了，就是这样。”</p><p>大多数人都以为自己没能过上自己想要的那种生活，但事实是，他们早就过上了，而且过得相当熟练。他们只是以为自己的生活可以更好，但实际上，他们之所以会困在当下的生活状态中无法自拔，是因为在他们的潜意识里，现在的生活才是对的。承受家暴的妻子，会在咨询室声嘶力竭地控诉丈夫的残暴，但是只要咨询师对她丈夫有一点异议，她又会开始满怀深情地回忆，与丈夫的点滴幸福，一口咬定他只是个脾气有点暴躁的好人。沉迷手机的上班族，想要奋发图强不愿继续平庸，但是一旦提到对未来生活的规划，他就会退缩起来，强调自己没人脉没学历没能力，人生处处受限，未来无路可走。爱上已婚男人的女人，哭诉自己绝望的恋情，叙述对方的种种冷酷，但一旦提到生活中的其他追求者，她便开始嫌弃对方年轻幼稚，无成熟男人的魅力，不懂得照顾自己。</p><p>很多人并不是无路可走，而是自己为自己画地为牢。他们随时都可以选择做出正确的举动，让自己脱离苦海，但错误的认知让他们深陷其中。</p><p>每个人都在追求着自己理解的“幸福”，而且大多数人其实都已经将它得到了。</p><p>我们的执行力从来都很强，错误的其实是我们努力的方向。</p><p>只要一个人愿意，他永远都有足够的潜力将自己的生活彻底改变。</p><p>我没有把握将每一个人关于幸福的定义扭转到正常的轨道上。很多无疑已经在错误的道路上前进了很远。</p><p>这才是人们问题的根本所在。而人最难接受的事情之一就是，自己的痛苦原来主要还是自己的责任。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> psychology </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> cognition </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>爱与控制欲</title>
+      <link href="/2018/04/19/psychology/psychology_2018_4_19_love_and_control/"/>
+      <url>/2018/04/19/psychology/psychology_2018_4_19_love_and_control/</url>
+      
+        <content type="html"><![CDATA[<p>恶，为了维护病态的自我， 不择手段去毁灭别人的自我。</p><p>控制欲，试图剥夺他人成长的意愿，增强别人的依赖感，削弱别人的创造力，拼命把别人改变成温顺听话的机器。</p><p>而爱，是为了促进自己和他人心智成熟，而不断拓展自我界限，实现自我完善的一种意愿。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> psychology </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> love </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>原生家庭</title>
+      <link href="/2018/04/02/psychology/psychology_2018_4_2_origin_issues/"/>
+      <url>/2018/04/02/psychology/psychology_2018_4_2_origin_issues/</url>
+      
+        <content type="html"><![CDATA[<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><p>过去的环境决定了我们现在的样子，可能你没有意识到或者不愿意承认，你和父母非常相似，不论你和他们的关系有多差，你有多抗拒他们。因为你无法选择人生的头几十年里自己所在的环境和接受怎样的教育。<br>你当下可能会很挣扎，意识到这些问题并开始想要改变。而且很大可能你的问题也是他们的问题。他们因为自己的视角和思维进入了那个困境，而你，也进入了类似的困局。</p><p>但你不会就此认命，你和他们的差别是：你努力认清自己，意识到是哪里出的问题，并努力走出当下的困境。</p><p>在意识层面 ，人可能会委屈自己，以符合普世价值观和道德。 但在潜意识层面，我们常把受到的委屈加倍反弹，报复给别人。 所以无所谓好人坏人， 好人的阴影处可能是个黑暗的坏人。 而坏人的阴影处，可能是个渴望爱而不得的好人。 做真实的自己比好坏重要的多。</p><p>消极和悲观的情绪往往越忍越烈，如果一个人表现的平静而歇斯底里，他正在强烈的压抑中。 当人畏惧一种悲观情绪时，可能会先一步实行它，然后沉浸在悲痛中从而感到安全。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> psychology </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Family of Origin Issues </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
